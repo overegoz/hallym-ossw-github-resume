@@ -1,6 +1,6 @@
 # RESUME
 ## 인적사항
-<img src="./img.jpg" width="100" height="200">
+<img src="./img.jpg" width="150" height="200">
 
 * 이름  
 **이바다**
