@@ -1,6 +1,6 @@
 # RESUME
 ## 인적사항
-![ㅂㄷ](./img.jpg =100x100)
+<img src="./img.jpg" width="100" height="200">
 * 이름  
 **이바다**
 * 생년월일  
