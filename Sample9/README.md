@@ -1,6 +1,6 @@
 # RESUME
 ## 인적사항
-![ㅂㄷ](https://user-images.githubusercontent.com/80818640/163997620-b7d1a062-e37d-4593-997c-496738e4d4c6.jpg)
+![ㅂㄷ](./img.jpg){: width="100" height="200"}
 * 이름  
 **이바다**
 * 생년월일  
